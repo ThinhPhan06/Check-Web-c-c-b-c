@@ -1,7 +1,9 @@
-streamlit
+streamlit==1.37.1
 requests
 beautifulsoup4
 tldextract
 python-whois
 matplotlib
 pandas
+
+
